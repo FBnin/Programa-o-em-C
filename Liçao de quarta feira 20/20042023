@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main()
+{
+    int vetL_2353[7];
+    int i;
+    
+    for(i = 0; i < 7 ; i++)
+    
+    printf("\nO endereco de cada posição do vetor é %d: %d \n",i + 1, &vetL_2353[i]);
+    
+    return 0;
+}
