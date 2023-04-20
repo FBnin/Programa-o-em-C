@@ -1,0 +1,16 @@
+ include  < stdio.h >
+# include  < stdlib.h >
+
+int  principal ()
+{   
+    int m2353, valor2353;
+    
+    if (&m2353> &valor2353){
+    
+    printf ( " \n o endereço m53 ( %p ) é maior que valor ( %p ) " , &m2353, &valor2353);
+    } senão {
+    printf ( " o endereço valor( %p ) é maior que m53( %p ) " , &valor2353, &m2353);
+    
+    retorna  0 ;
+    }
+}
