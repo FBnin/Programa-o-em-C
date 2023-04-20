@@ -1,0 +1,18 @@
+# include  < stdio.h >
+
+int  principal ()
+{   
+    int v2353, vet []={ 1 , 2 , 3 , 4 , 5 , 6 , 7 };
+    
+    
+    para (v4034= 0 ; v2353< 7 ; v2353++)
+     
+    printf ( " \n o endereço: %p " ,vet+v4034);
+    
+   
+    
+    retorna  0 ;
+    
+
+    
+}
